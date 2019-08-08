@@ -1,0 +1,100 @@
+2000
+Ret(inj): 4
+Def(ns): 4
+Wo(inj): 11
+Wo(ill): 2
+2001
+Ret(inj): 6
+Def(ns): 5
+Wo(inj): 8
+Wo(ill): 4
+2002
+Ret(inj): 5
+Def(ns): 1
+Wo(inj): 2
+Wo(ill): 1
+2003
+Ret(inj): 6
+Def(ns): 1
+Wo(inj): 6
+Wo(ill): 0
+2004
+Ret(inj): 1
+Def(ns): 9
+Wo(inj): 8
+Wo(ill): 3
+2005
+Ret(inj): 3
+Def(ns): 1
+Wo(inj): 12
+Wo(ill): 2
+2006
+Ret(inj): 16
+Def(ns): 4
+Wo(inj): 7
+Wo(ill): 1
+2007
+Ret(inj): 6
+Def(ns): 0
+Wo(inj): 7
+Wo(ill): 2
+2008
+Ret(inj): 12
+Def(ns): 4
+Wo(inj): 8
+Wo(ill): 1
+2009
+Ret(inj): 10
+Def(ns): 7
+Wo(inj): 20
+Wo(ill): 0
+2010
+Ret(inj): 7
+Def(ns): 7
+Wo(inj): 14
+Wo(ill): 1
+2011
+Ret(inj): 1
+Def(ns): 4
+Wo(inj): 17
+Wo(ill): 0
+2012
+Ret(inj): 4
+Def(ns): 4
+Wo(inj): 17
+Wo(ill): 3
+2013
+Ret(inj): 11
+Def(ns): 7
+Wo(inj): 12
+Wo(ill): 3
+2014
+Ret(inj): 5
+Def(ns): 0
+Wo(inj): 27
+Wo(ill): 1
+2015
+Ret(inj): 4
+Def(ns): 3
+Wo(inj): 24
+Wo(ill): 2
+2016
+Ret(inj): 6
+Def(ns): 3
+Wo(inj): 23
+Wo(ill): 0
+2017
+Ret(inj): 9
+Def(ns): 4
+Wo(inj): 17
+Wo(ill): 2
+2018
+Ret(inj): 16
+Def(ns): 2
+Wo(inj): 33
+Wo(ill): 4
+2019
+Ret(inj): 10
+Def(ns): 2
+Wo(inj): 31
+Wo(ill): 5
